@@ -1,38 +1,24 @@
-# REM-U Django WebApp for remote control
+# PCBs
 
-This repository contains the WebApp developed in Python-Django for remote rover control. It has capabilities to connect via Xbee-S8 and Wi-Fi socket to the on-board Rpi3.
+PCBs Eagle designs that power REM-U
 
 ## Getting Started
 
-1. Clone the repository
-2. Install Python 3.7
-3. Intall Django and dependencies
-4. Install Django-Channels and Redis
-5. Connect required hardware
-6. Run `python3 manage.py runserver <ip>:<port>`
-7. Browse to `http://localhost:<port>`
-
-
-### Prerequisites
-
-Python3, Django, Python packages.
+1. Install Eagle (students)
+2. Open board and schematics
 
 
 ## Built With
 
-* [Python 3.7](https://www.python.org) - Free and readable programming language
-* [Django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
+* [Eagle](https://www.autodesk.com/products/eagle/overview) - Autodesk EAGLE is powerful, easy-to-use PCB design and schematic software
 
-
-## Versioning
-
-All versions available in [this repository](https://github.com/robocol-rem-u/WepApp). 
 
 ## Authors
 
-* **Oscar Díaz Caballero** - *Initial work* - [alegis277](https://github.com/alegis277)
+* **Miguel Angel Díaz** - *PCB Design*
+* **Oscar Díaz Caballero** - *GitHub Upload* - [alegis277](https://github.com/alegis277)
 
-See also the list of [contributors](https://github.com/robocol-rem-u/WepApp/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/robocol-rem-u/PCBs/graphs/contributors) who participated in this project.
 
 ## License
 
