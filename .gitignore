@@ -57,5 +57,6 @@ eagle.epf
 !LICENSE.txt
 !README.md
 !.gitignore
+.DS_Store
 
 # End of https://www.gitignore.io/api/eagle
